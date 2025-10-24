@@ -47,11 +47,5 @@ An advanced **Retrieval-Augmented Generation (RAG)** system built using **Stream
 
 ## 📁 Project Structure
 
-📦 Large-Scale-RAG-System
-│
-├── main.py # Streamlit app (full pipeline)
-├── .env # Contains GROQ_API_KEY (not committed)
-├── chroma_db/ # Persistent vector store directory
-├── pdf_storage/ # Folder for direct file processing
-├── processed_files.txt # Log of processed file hashes
-└── requirements.txt # Python dependencies
+<img width="666" height="319" alt="image" src="https://github.com/user-attachments/assets/af17aa9d-513c-4568-8446-65ddd9da5b3f" />
+
